@@ -20,8 +20,8 @@ const nextConfig = {
     webpackBuildWorker: true,
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
-    appDir: true, // ✅ Ensure App Router is enabled
   },
+  output: "standalone", // ✅ Ensure Vercel serves the correct build output
 };
 
 mergeConfig(nextConfig, userConfig);
