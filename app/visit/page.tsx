@@ -4,7 +4,7 @@ export default function Visit() {
       <h1 className="text-4xl font-bold text-center mb-8 text-gold-500">Plan Your Visit</h1>
       <div className="max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Location</h2>
-        <p className="mb-6">123 Temple Street, Spiritual City, Divine State, 12345</p>
+        <p className="mb-6">Sahaspur, Anandapur, Paschim Medinipur, West Bengal, 721122</p>
 
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Opening Hours</h2>
         <ul className="list-disc list-inside mb-6">
@@ -27,8 +27,7 @@ export default function Visit() {
         </ul>
 
         <p className="text-lg">
-          For more information or to schedule a group visit, please contact us at info@maakaalitemple.com or call +1
-          (123) 456-7890.
+          For more information or to schedule a group visit, please contact us at info@maakaali.in or call +91 8768027360.
         </p>
       </div>
     </div>
