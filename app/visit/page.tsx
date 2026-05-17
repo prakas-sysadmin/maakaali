@@ -6,14 +6,18 @@ export default function Visit() {
 
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Opening Hours</h2>
         <ul className="list-disc list-inside mb-6">
-          <li>Monday - Friday: 6:00 AM - 9:00 PM</li>
-          <li>Saturday - Sunday: 5:00 AM - 10:00 PM</li>
+          <li>Tuesday and Saturday:- 11:00 AM - 2:00 PM (Special Puja for Mental Illness Relief)</li>
+          <li>Sunday To Saturday:- 10:00 AM - 5:00 PM (Daily Darshan & Rituals) </li>
         </ul>
 
-        <h2 className="text-2xl font-semibold mb-4 text-gold-400">Aarti Timings</h2>
-        <ul className="list-disc list-inside mb-6">
-          <li>Morning Aarti: 7:00 AM</li>
-          <li>Evening Aarti: 7:00 PM</li>
+        <h2 className="text-2xl font-semibold mb-4 text-amber-500">Rituals & Aarti Timings</h2>
+        <ul className="list-disc list-inside mb-6 space-y-2 text-gray-700">
+          <li>
+          <span className="font-medium">Morning Nitya Seva & Aarti:</span> 10:00 AM to 11:00 AM
+          </li>
+          <li>
+          <span className="font-medium">Evening Sandhya Aarti:</span> 6:00 PM to 7:00 PM
+          </li>
         </ul>
 
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Guidelines for Visitors</h2>
@@ -25,7 +29,7 @@ export default function Visit() {
         </ul>
 
         <p className="text-lg mb-12">
-          For more information or to schedule a group visit, please contact us at info@maakaali.in or call +91 8768027360.
+          For more Techinal Support information or to schedule a group visit, please contact us at info@sahaspurkalimata.org or call +91 7003069781 (Prakas Rana).
         </p>
 
         {/* Location + Google Map at the Bottom */}
