@@ -35,7 +35,7 @@ export default function Visit() {
         {/* Location + Google Map at the Bottom */}
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Location</h2>
         <p className="mb-6">
-          Sahaspur, Anandapur, Paschim Medinipur, West Bengal, 721122
+          Sahaspur(Rana Para), Anandapur, Paschim Medinipur, West Bengal, 721122
         </p>
 
         <div className="mb-6">
