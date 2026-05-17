@@ -17,13 +17,12 @@ export default function Home() {
             />
           </div>
           <p className="text-center text-sm text-gray-400 mt-2">
-            The divine shrine of Sahaspur Siddeswari Kali Mata adorned with traditional decorations
+            The divine and blissful form of Maa Siddeswari, adorned in traditional glory.
           </p>
         </div>
         <div className="max-w-2xl text-center">
           <p className="text-xl mb-6">
-            Experience the divine power and spiritual significance of Maa Kali, the fierce and compassionate goddess of
-            time, creation, destruction, and power.
+            By the divine blessings of Maa Kali at Sahaspur Siddeswari Mandir, countless people suffering from severe <span className="font-bold text-amber-600">mental ailments</span> have found miraculous recovery and peace.
           </p>
           <Link
             href="/about"
