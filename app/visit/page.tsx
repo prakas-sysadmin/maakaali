@@ -29,7 +29,7 @@ export default function Visit() {
         </ul>
 
         <p className="text-lg mb-12">
-          For more Techinal Support information or to schedule a group visit, please contact us at info@sahaspurkalimata.org or call +91 7003069781 (Prakas Rana).
+          For any Techinal Support information or to schedule a group visit, please contact us at info@sahaspurkalimata.org or call +91 7003069781 (Prakas Rana).
         </p>
 
         {/* Location + Google Map at the Bottom */}
