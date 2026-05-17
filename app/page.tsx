@@ -17,7 +17,7 @@ export default function Home() {
             />
           </div>
           <p className="text-center text-sm text-gray-400 mt-2">
-            The divine shrine of Maa Kali adorned with traditional decorations
+            The divine shrine of Sahaspur Siddeswari Kali Mata adorned with traditional decorations
           </p>
         </div>
         <div className="max-w-2xl text-center">
