@@ -7,11 +7,11 @@ export default function Visit() {
         <h2 className="text-2xl font-semibold mb-4 text-gold-400">Opening Hours</h2>
         <ul className="list-disc list-inside mb-6">
           <li>Tuesday and Saturday:- 11:00 AM - 2:00 PM (Special Puja for Mental Illness Relief)</li>
-          <li>Sunday To Saturday:- 10:00 AM - 5:00 PM (Daily Darshan & Rituals) </li>
+          <li>Sunday To Saturday:- 10:00 AM - 6:00 PM (Daily Darshan & Rituals) </li>
         </ul>
 
         <h2 className="text-2xl font-semibold mb-4 text-amber-500">Rituals & Aarti Timings</h2>
-        <ul className="list-disc list-inside mb-6 space-y-2 text-gray-700">
+        <ul className="list-disc list-inside mb-6">
           <li>
           <span className="font-medium">Morning Nitya Seva & Aarti:</span> 10:00 AM to 11:00 AM
           </li>
