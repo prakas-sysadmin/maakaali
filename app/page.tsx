@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Home() {
   return (
     <div className="container mx-auto px-6 py-12">
-      <h1 className="text-5xl font-bold text-center mb-8 text-gold-500">Welcome to Maa Kali Temple</h1>
+      <h1 className="text-5xl font-bold text-center mb-8 text-gold-500">Welcome to Sahaspur Maa Siddeswari Kali Mandir</h1>
       <div className="flex flex-col items-center justify-between">
         <div className="w-full max-w-4xl mb-8">
           <div className="relative aspect-[16/9] rounded-lg overflow-hidden shadow-2xl">
